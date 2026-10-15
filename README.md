@@ -103,9 +103,9 @@ The open-source ecosystem provides battle-tested engines that allow complete sov
 
 ### ⭐ Open-Source Ranking Table
 
-> **Sorted by Star Counts (Descending)**. Every badge links directly to the repository's stargazers page.
+> **Sorted by Stars_Counts (Descending)**. Every badge links directly to the repository's stargazers page.
 
-| Repository | GitHub Stars Badge | Primary Language | Ingest Protocols | Egress Protocols | Best Used For |
+| Repository | GitHub_Stars_Badge | Primary Language | Ingest Protocols | Egress Protocols | Best Used For |
 | :--- | :---: | :---: | :--- | :--- | :--- |
 | **[OBS Studio](https://github.com/obsproject/obs-studio)** | [![Stars](https://img.shields.io/github/stars/obsproject/obs-studio?style=social&color=white)](https://github.com/obsproject/obs-studio/stargazers) | C / C++ | Screen, Mic, SDI, NDI | RTMP, SRT, WHIP, RIST | Universal desktop live production, screen capture & encoder |
 | **[FFmpeg](https://github.com/FFmpeg/FFmpeg)** | [![Stars](https://img.shields.io/github/stars/FFmpeg/FFmpeg?style=social&color=white)](https://github.com/FFmpeg/FFmpeg/stargazers) | C | All known formats | All known formats | Universal audio/video transcoding, muxing & packaging engine |
